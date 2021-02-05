@@ -15,3 +15,8 @@ The ```game.search()``` method will use **Breadth-first** or **Depth-first** gra
 ![Optimal Solution](http://www.aiai.ed.ac.uk/~gwickler/images/mc-search-space.png)
 
 *Credit: [Gerhard Wickler](http://www.aiai.ed.ac.uk/~gwickler/missionaries.html)*
+
+## Demo 🌊
+Probably an outdated version, but shows the code in action.
+
+https://repl.it/@AlexDawkins/astronautsandmonsters
